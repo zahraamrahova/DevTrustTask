@@ -155,7 +155,7 @@ namespace CustomJSON
             return member.Name;
         }
 
-        //Deserialize
+        //Deserialize 
         [ThreadStatic] static Stack<List<string>> splitArrayPool;
         [ThreadStatic] static StringBuilder stringBuilder;
         [ThreadStatic] static Dictionary<Type, Dictionary<string, FieldInfo>> fieldDataCache;
@@ -169,7 +169,7 @@ namespace CustomJSON
             if (stringBuilder == null) stringBuilder = new StringBuilder();
             if (splitArrayPool == null) splitArrayPool = new Stack<List<string>>();
 
-            //Remove all possible whitespace 
+            //Remove all possible whitespace for easy parsing 
             stringBuilder.Length = 0;
             for (int i = 0; i < json.Length; i++)
             {
