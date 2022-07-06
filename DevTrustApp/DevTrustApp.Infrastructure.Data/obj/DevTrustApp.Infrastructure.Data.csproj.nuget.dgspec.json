@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Infrastructure.Data\\DevTrustApp.Infrastructure.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\CustomJSON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\CustomJSON.csproj",
+        "projectName": "CustomJSON",
+        "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\CustomJSON.csproj",
+        "packagesPath": "C:\\Users\\SATTAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SATTAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj",
+        "projectName": "DevTrustApp.Core.Entity",
+        "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj",
+        "packagesPath": "C:\\Users\\SATTAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SATTAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\DevTrustApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\DevTrustApp.Core.csproj",
+        "projectName": "DevTrustApp.Core",
+        "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\DevTrustApp.Core.csproj",
+        "packagesPath": "C:\\Users\\SATTAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SATTAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\CustomJSON.csproj": {
+                "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\CustomJSON\\CustomJSON.csproj"
+              },
+              "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj": {
+                "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Infrastructure.Data\\DevTrustApp.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Infrastructure.Data\\DevTrustApp.Infrastructure.Data.csproj",
+        "projectName": "DevTrustApp.Infrastructure.Data",
+        "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Infrastructure.Data\\DevTrustApp.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\SATTAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SATTAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj": {
+                "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core.Entity\\DevTrustApp.Core.Entity.csproj"
+              },
+              "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\DevTrustApp.Core.csproj": {
+                "projectPath": "D:\\Zahra Amrahova Programming Lesson\\02.07.2022(DevTrustV3)\\DevTrustApp\\DevTrustApp.Core\\DevTrustApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
