@@ -73,3 +73,16 @@ D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrust
 D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\CustomJSON.dll
 D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\CustomJSON.pdb
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Zahra Amrahova Programming Lesson\02.07.2022(DevTrustV3)\DevTrustApp\DevTrustApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll

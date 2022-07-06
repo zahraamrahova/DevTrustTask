@@ -1,12 +1,7 @@
 using DevTrustApp.API.Helper;
-using DevTrustApp.Core.ApplicationService.Implementation;
-using DevTrustApp.Core.ApplicationService.Interface;
-using DevTrustApp.Core.DomainService;
 using DevTrustApp.Infrastructure.Data;
-using DevTrustApp.Infrastructure.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -27,13 +22,7 @@ namespace DevTrustApp.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddDbContext<DevTrustAppDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddScoped<IPersonReadRepository, PersonReadRepository>();
-            services.AddScoped<IPersonWriteRepository, PersonWriteRepository>();
-            services.AddScoped<IAddressWriteRepository, AddressWriteRepository>();
-            services.AddScoped<IAddressReadRepository, AddressReadRepository>();
-            services.AddScoped<IPersonService, PersonService>();
+            services.AddInfrastructureServices(Configuration);         
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevTrustApp.API", Version = "v1" });
